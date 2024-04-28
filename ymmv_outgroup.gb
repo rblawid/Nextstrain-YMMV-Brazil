@@ -1,0 +1,85 @@
+LOCUS       KC924403                 801 bp    RNA     linear   VRL 06-DEC-2014
+DEFINITION  Yam mild mosaic virus isolate I-133 coat protein gene, partial cds.
+ACCESSION   KC924403
+VERSION     KC924403.1
+KEYWORDS    .
+SOURCE      Yam mild mosaic virus
+  ORGANISM  Yam mild mosaic virus
+            Viruses; Riboviria; Orthornavirae; Pisuviricota; Stelpaviricetes;
+            Patatavirales; Potyviridae; Potyvirus.
+REFERENCE   1  (bases 1 to 801)
+  AUTHORS   Rabelo-Filho,F.A.C., Nicolini,C., Resende,R.O., Andrade,G.P.,
+            Pio-Ribeiro,G. and Nagata,T.
+  TITLE     Genetic similarity of Yam mild mosaic virus is more related to host
+            than geographical factor
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 801)
+  AUTHORS   Rabelo-Filho,F.A.C., Nicolini,C., Resende,R.O., Andrade,G.P.,
+            Pio-Ribeiro,G. and Nagata,T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-APR-2013) Departamento de Agronomia, Universidade
+            Federal Rural de Pernambuco, Av. Dom Manoel de Medeiros, s/n, Dois
+            Irmaos, Recife, Pernambuco 52171-030, Brazil
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Pregap4 v. 1.5
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..801
+                     /organism="Yam mild mosaic virus"
+                     /mol_type="genomic RNA"
+                     /isolate="I-133"
+                     /host="Dioscorea alata"
+                     /db_xref="taxon:87097"
+                     /country="Brazil"
+     CDS             <1..801
+                     /note="CP"
+                     /codon_start=1
+                     /product="coat protein"
+                     /gene="CP"
+                     /protein_id="AHB51069.1"
+                     /translation="ASKEQTFDAGQFASKQPQTQGPTSSSEGPGRDVNVGTKGTFSIP
+                     RIKAPMSKLTLPKLKGKVLVNLEHLVEYEPEQVDISNKRASQEQLGQWVEAVKTSYDV
+                     DDEQLKIILNGFMVWCIENGTSPNINGNWYMIENGKQIEFPLKPIVENAKPTLRQIMA
+                     HFSDLAEAYIEKRNAKKAYMPGYGLKRNPNDYSLARYAFDFFEITSKTPVRAREAHMQ
+                     MKAAALRNTRTRLFGLDGSVSNNEENTERHTSDDVSKDMHSLLGVRNI"
+ORIGIN      
+        1 gcaagtaagg aacagacatt tgacgccgga cagtttgcaa gtaagcagcc acaaacacaa
+       61 gggccaacaa gtagctctga aggaccagga agagacgtta atgttggaac aaaggggaca
+      121 ttcagtattc cgcgcattaa agcaccaatg agtaaattga cattgccaaa actcaaagga
+      181 aaggttttag taaatctaga acatttagtt gagtatgagc cagagcaagt tgacatttca
+      241 aacaaaagag cttctcagga gcaactcggt caatgggtgg aggcagtcaa aacctcgtat
+      301 gatgtggatg atgagcaact gaaaatcatt ttgaatggat tcatggtatg gtgtattgaa
+      361 aacgggacct ctccaaacat caacgggaat tggtacatga ttgaaaatgg aaagcagata
+      421 gagtttcctt taaaaccaat tgttgaaaat gcaaagccga cacttcgaca gatcatggca
+      481 catttcagtg atttggctga agcgtatatt gagaagcgca atgcgaagaa agcgtacatg
+      541 ccaggttatg gattaaagcg aaatcccaat gattattcac tagcacgcta tgcttttgat
+      601 ttctttgaga ttacatcgaa aaccccagta cgtgcacgtg aggcacacat gcaaatgaag
+      661 gcagcagctt tacggaacac cagaactcgt ctttttggtc tagatggttc tgtcagcaac
+      721 aacgaggaaa acacagaaag gcacacaagc gatgatgtga gtaaggacat gcactctctt
+      781 cttggagtgc gcaatatcta g
+//
+Supplemental Content
+Change region shown
+Customize view
+Analyze this sequence
+Run BLAST
+Pick Primers
+Highlight Sequence Features
+Find in this Sequence
+Related information
+Protein
+Taxonomy
+Recent activity
+ClearTurn Off
+Yam mild mosaic virus isolate I-133 coat protein gene, partial cds
+Nucleotide
+Yam mild mosaic virus isolate FIJI 1 polyprotein gene, partial cds
+Nucleotide
+Yam mild mosaic virus isolate CN2 coat protein gene, partial cds
+Nucleotide
+Yam mild mosaic virus isolate CN9 coat protein gene, partial cds
+Nucleotide
+txid87097[organism:exp] AND (is_nuccore[filter] AND ("700"[SLEN] ... (94)
+Nucleotide
+See more...

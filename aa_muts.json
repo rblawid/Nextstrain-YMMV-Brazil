@@ -1,0 +1,1140 @@
+{
+  "annotations": {
+    "CP": {
+      "end": 801,
+      "seqid": "/home/blawid/YMMV/YMMV2/config/ymmv_outgroup.gb",
+      "start": 1,
+      "strand": "+",
+      "type": "CDS"
+    },
+    "nuc": {
+      "end": 801,
+      "seqid": "/home/blawid/YMMV/YMMV2/config/ymmv_outgroup.gb",
+      "start": 1,
+      "strand": "+",
+      "type": "source"
+    }
+  },
+  "generated_by": {
+    "program": "augur",
+    "version": "24.3.0"
+  },
+  "nodes": {
+    "Andong_KX156847_S-Kor_2014_poly": {
+      "aa_muts": {
+        "CP": [
+          "G21E",
+          "V96I",
+          "D136N",
+          "N226S"
+        ]
+      }
+    },
+    "Br2_AF548498_Bra_2000_ala": {
+      "aa_muts": {
+        "CP": [
+          "A48T",
+          "P125Q",
+          "A223P",
+          "S239G",
+          "N240T",
+          "N241S",
+          "E242D",
+          "S254N"
+        ]
+      }
+    },
+    "CN1_KC407674_Chi_2011_opp": {
+      "aa_muts": {
+        "CP": [
+          "S25G",
+          "V35A"
+        ]
+      }
+    },
+    "CN20_KC473517_Chi_2010_poly": {
+      "aa_muts": {
+        "CP": [
+          "S2G",
+          "A13T",
+          "S26F",
+          "R31K",
+          "V62I",
+          "I140V",
+          "T229I"
+        ]
+      }
+    },
+    "COL1_AF548491_Col_2016_ala": {
+      "aa_muts": {
+        "CP": [
+          "A13S",
+          "I110V"
+        ]
+      }
+    },
+    "COL2_AF548492_Col_2016_ala": {
+      "aa_muts": {
+        "CP": []
+      }
+    },
+    "CR1_AF548499_C-Ric_1999_tri": {
+      "aa_muts": {
+        "CP": [
+          "S14G",
+          "R228K",
+          "T240N"
+        ]
+      }
+    },
+    "DSMZ-PV-1214_OM471977_Nig_2022_ala": {
+      "aa_muts": {
+        "CP": [
+          "S17P",
+          "P22S",
+          "S25G",
+          "Y132C"
+        ]
+      }
+    },
+    "DSMZ-PV-1214_OM471978_Nig_2022_ala": {
+      "aa_muts": {
+        "CP": [
+          "I43V",
+          "V62I"
+        ]
+      }
+    },
+    "DSMZ-PV-1214_OM471979_Nig_2022_ala": {
+      "aa_muts": {
+        "CP": []
+      }
+    },
+    "Da-L3_KM265137_Ind_2014_ala": {
+      "aa_muts": {
+        "CP": [
+          "P29S",
+          "V62I",
+          "Y132C"
+        ]
+      }
+    },
+    "DaG131-16_MT345581_Gha_2012_ala": {
+      "aa_muts": {
+        "CP": [
+          "Y132C"
+        ]
+      }
+    },
+    "DaG137-17_MT345582_Gha_2012_ala": {
+      "aa_muts": {
+        "CP": [
+          "S14N",
+          "S19P",
+          "G21K",
+          "P22S",
+          "S24G",
+          "G28E",
+          "I43V",
+          "P44A",
+          "A48T",
+          "V70I",
+          "T77I"
+        ]
+      }
+    },
+    "DaG38-16_MT345592_Gha_2013_ala": {
+      "aa_muts": {
+        "CP": [
+          "S25N",
+          "P29S"
+        ]
+      }
+    },
+    "DaG4-43_MT345579_Gha_2012_ala": {
+      "aa_muts": {
+        "CP": [
+          "S19P",
+          "P22S",
+          "S26P"
+        ]
+      }
+    },
+    "DaG89-11_MT345580_Gha_2012_ala": {
+      "aa_muts": {
+        "CP": [
+          "P19S",
+          "S25N",
+          "P29S",
+          "K31R",
+          "R228K",
+          "E242D",
+          "S254N"
+        ]
+      }
+    },
+    "DaN143-12_MT345586_Nig_2012_ala": {
+      "aa_muts": {
+        "CP": [
+          "K108R"
+        ]
+      }
+    },
+    "DaN246-21_MT345587_Nig_2012_ala": {
+      "aa_muts": {
+        "CP": []
+      }
+    },
+    "DaN31-3_MT345584_Nig_2012_ala": {
+      "aa_muts": {
+        "CP": []
+      }
+    },
+    "DaN32-3_MT345585_Nig_2012_ala": {
+      "aa_muts": {
+        "CP": []
+      }
+    },
+    "DaN46-5_MT345594_Nig_2013_ala": {
+      "aa_muts": {
+        "CP": [
+          "N265H"
+        ]
+      }
+    },
+    "DaN48-5_MT345595_Nig_2013_ala": {
+      "aa_muts": {
+        "CP": []
+      }
+    },
+    "DaN6-I_MT345589_Nig_2012_ala": {
+      "aa_muts": {
+        "CP": [
+          "K61N",
+          "R264Q",
+          "N265I"
+        ]
+      }
+    },
+    "DaN7-19_MT345588_Nig_2012_ala": {
+      "aa_muts": {
+        "CP": [
+          "P17S",
+          "T23A",
+          "N25T",
+          "G28E",
+          "S29P",
+          "V70I",
+          "T98I",
+          "Y132C",
+          "I134V",
+          "T240A",
+          "N254T"
+        ]
+      }
+    },
+    "DrG269-31_MT345583_Gha_2012_rot": {
+      "aa_muts": {
+        "CP": [
+          "I43F",
+          "Y132C"
+        ]
+      }
+    },
+    "FIJI1_AF548515_Fiji_2000_ala": {
+      "aa_muts": {
+        "CP": [
+          "P22Q",
+          "N150S",
+          "S254N"
+        ]
+      }
+    },
+    "FIJI2_AF548516_Fiji_2000_ala": {
+      "aa_muts": {
+        "CP": [
+          "G21R"
+        ]
+      }
+    },
+    "FIJI3_AF548517_Fiji_2000_ala": {
+      "aa_muts": {
+        "CP": []
+      }
+    },
+    "FIJI4_AF548518_Fiji_2000_ala": {
+      "aa_muts": {
+        "CP": [
+          "T54P",
+          "E138G",
+          "R228K"
+        ]
+      }
+    },
+    "GH5-NN1_KJ125472_Chi_2011_ala": {
+      "aa_muts": {
+        "CP": [
+          "V77A"
+        ]
+      }
+    },
+    "GH6-NC1_KJ125473_Chi_2010_ala": {
+      "aa_muts": {
+        "CP": [
+          "K3E",
+          "Q11K",
+          "A13S",
+          "S14N",
+          "V62I"
+        ]
+      }
+    },
+    "Guad1_AF548500_Gua_1998_ala": {
+      "aa_muts": {
+        "CP": [
+          "S19P",
+          "S26P",
+          "V62I",
+          "D136N",
+          "T240I"
+        ]
+      }
+    },
+    "Guad2_AF548501_Gua_1998_ala": {
+      "aa_muts": {
+        "CP": []
+      }
+    },
+    "Guad3_AF548502_Gua_1998_ala": {
+      "aa_muts": {
+        "CP": [
+          "I43V",
+          "T98I"
+        ]
+      }
+    },
+    "Guad4_AF548503_Gua_1998_tri": {
+      "aa_muts": {
+        "CP": []
+      }
+    },
+    "Guad5_AF548504_Gua_1998_tri": {
+      "aa_muts": {
+        "CP": []
+      }
+    },
+    "Guad6_AF548505_Gua_1998_esc": {
+      "aa_muts": {
+        "CP": [
+          "K3Q",
+          "Q5R",
+          "Q20P",
+          "K59R",
+          "S99A",
+          "L107M",
+          "R196L",
+          "V210A",
+          "A212L",
+          "N241S",
+          "N254S"
+        ]
+      }
+    },
+    "Guy1_AF548506_Guy_1998_tri": {
+      "aa_muts": {
+        "CP": [
+          "V102I",
+          "G182S",
+          "S241N"
+        ]
+      }
+    },
+    "Guy2_AF548507_Guy_1998_tri": {
+      "aa_muts": {
+        "CP": [
+          "H11L",
+          "S14N",
+          "Q18H",
+          "E138G",
+          "P223A",
+          "R264G"
+        ]
+      }
+    },
+    "Guy3_AF548508_Guy_1998_tri": {
+      "aa_muts": {
+        "CP": [
+          "Q16H",
+          "R31K",
+          "Y132H",
+          "L189K",
+          "Y192F"
+        ]
+      }
+    },
+    "Guy4_AF548509_Guy_1998_tri": {
+      "aa_muts": {
+        "CP": [
+          "E105D",
+          "I158V",
+          "K220X",
+          "A221X",
+          "R228K",
+          "*267X"
+        ]
+      }
+    },
+    "Guy5_AF548510_Guy_1998_tri": {
+      "aa_muts": {
+        "CP": [
+          "K3E",
+          "D8E",
+          "S13A",
+          "V43I",
+          "I158V",
+          "R213S"
+        ]
+      }
+    },
+    "Guy6_AF548511_Guy_1998_tri": {
+      "aa_muts": {
+        "CP": [
+          "P22S",
+          "Y132H"
+        ]
+      }
+    },
+    "Guy7_AF548512_Guy_1998_tri": {
+      "aa_muts": {
+        "CP": [
+          "T6A",
+          "S14N",
+          "T23I",
+          "E141G",
+          "I158V"
+        ]
+      }
+    },
+    "Guy8_AF548513_Guy_1998_tri": {
+      "aa_muts": {
+        "CP": [
+          "D21G",
+          "P223A",
+          "D252N"
+        ]
+      }
+    },
+    "HB148_MT501393_Cam_2021_ala": {
+      "aa_muts": {
+        "CP": []
+      }
+    },
+    "HB86_MT501392_Cam_2021_esc": {
+      "aa_muts": {
+        "CP": []
+      }
+    },
+    "I133_KC924403_Bra_2014_ala": {
+      "aa_muts": {
+        "CP": [
+          "E138K",
+          "L189P"
+        ]
+      }
+    },
+    "I55_KC924404_Bra_2014_tri": {
+      "aa_muts": {
+        "CP": [
+          "T6I",
+          "F7L",
+          "S14G",
+          "P22Q",
+          "N25S",
+          "A48T",
+          "E75D",
+          "F114L",
+          "N130F",
+          "E141K",
+          "M180V",
+          "T240N"
+        ]
+      }
+    },
+    "JPN1_AF548519_Jap_1997_ala": {
+      "aa_muts": {
+        "CP": []
+      }
+    },
+    "JPN2_AF548520_Jap_2016_ala": {
+      "aa_muts": {
+        "CP": [
+          "P22T",
+          "S24N",
+          "K57R",
+          "D136N",
+          "T240A"
+        ]
+      }
+    },
+    "JPN3_AF548521_Jap_1998_ala": {
+      "aa_muts": {
+        "CP": [
+          "K15E",
+          "V35A",
+          "K57N",
+          "L107M",
+          "L234F"
+        ]
+      }
+    },
+    "JPN4_AF548522_Jap_1993_ala": {
+      "aa_muts": {
+        "CP": [
+          "N65S"
+        ]
+      }
+    },
+    "JPN_AB029405_Jap_2016_ala": {
+      "aa_muts": {
+        "CP": []
+      }
+    },
+    "Luzhai_JF357963_Chi_2010_opp": {
+      "aa_muts": {
+        "CP": [
+          "S193P"
+        ]
+      }
+    },
+    "Mart1_AF548493_Mart_1998_rot": {
+      "aa_muts": {
+        "CP": []
+      }
+    },
+    "Mart2_AF548494_Mart_1998_ala": {
+      "aa_muts": {
+        "CP": [
+          "P22S",
+          "S25G",
+          "S26F",
+          "R228K",
+          "N241S"
+        ]
+      }
+    },
+    "Mart3_AF548495_Mart_1998_ala": {
+      "aa_muts": {
+        "CP": []
+      }
+    },
+    "Mart4_AF548496_Mart_1998_ala": {
+      "aa_muts": {
+        "CP": [
+          "A223P"
+        ]
+      }
+    },
+    "NODE_0000000": {
+      "aa_muts": {
+        "CP": [
+          "K3Q",
+          "Q5K",
+          "A13S",
+          "Q20P",
+          "P22S",
+          "S26F",
+          "I43V"
+        ]
+      }
+    },
+    "NODE_0000001": {
+      "aa_muts": {
+        "CP": [
+          "S17P"
+        ]
+      }
+    },
+    "NODE_0000002": {
+      "aa_muts": {
+        "CP": [
+          "P19T"
+        ]
+      }
+    },
+    "NODE_0000004": {
+      "aa_muts": {
+        "CP": []
+      }
+    },
+    "NODE_0000005": {
+      "aa_muts": {
+        "CP": []
+      }
+    },
+    "NODE_0000006": {
+      "aa_muts": {
+        "CP": [
+          "T23A",
+          "R31K"
+        ]
+      }
+    },
+    "NODE_0000007": {
+      "aa_muts": {
+        "CP": []
+      }
+    },
+    "NODE_0000008": {
+      "aa_muts": {
+        "CP": []
+      }
+    },
+    "NODE_0000009": {
+      "aa_muts": {
+        "CP": []
+      }
+    },
+    "NODE_0000010": {
+      "aa_muts": {
+        "CP": []
+      }
+    },
+    "NODE_0000011": {
+      "aa_muts": {
+        "CP": []
+      }
+    },
+    "NODE_0000013": {
+      "aa_muts": {
+        "CP": [
+          "A223P"
+        ]
+      }
+    },
+    "NODE_0000014": {
+      "aa_muts": {
+        "CP": [
+          "R255K"
+        ]
+      }
+    },
+    "NODE_0000015": {
+      "aa_muts": {
+        "CP": []
+      }
+    },
+    "NODE_0000019": {
+      "aa_muts": {
+        "CP": []
+      }
+    },
+    "NODE_0000020": {
+      "aa_muts": {
+        "CP": []
+      }
+    },
+    "NODE_0000025": {
+      "aa_muts": {
+        "CP": [
+          "N130S",
+          "S239G",
+          "N240T"
+        ]
+      }
+    },
+    "NODE_0000026": {
+      "aa_muts": {
+        "CP": [
+          "D136N",
+          "G239S",
+          "T240N",
+          "D242E",
+          "N254S"
+        ]
+      }
+    },
+    "NODE_0000027": {
+      "aa_muts": {
+        "CP": [
+          "A13T",
+          "P22Q",
+          "R255K"
+        ]
+      }
+    },
+    "NODE_0000028": {
+      "aa_muts": {
+        "CP": []
+      }
+    },
+    "NODE_0000029": {
+      "aa_muts": {
+        "CP": [
+          "A17S"
+        ]
+      }
+    },
+    "NODE_0000030": {
+      "aa_muts": {
+        "CP": [
+          "A13S",
+          "D136N"
+        ]
+      }
+    },
+    "NODE_0000031": {
+      "aa_muts": {
+        "CP": [
+          "R31K",
+          "I43V",
+          "A48T",
+          "V62I",
+          "I79L",
+          "A95S",
+          "S99A",
+          "R255K"
+        ]
+      }
+    },
+    "NODE_0000032": {
+      "aa_muts": {
+        "CP": []
+      }
+    },
+    "NODE_0000033": {
+      "aa_muts": {
+        "CP": []
+      }
+    },
+    "NODE_0000034": {
+      "aa_muts": {
+        "CP": [
+          "P22S"
+        ]
+      }
+    },
+    "NODE_0000035": {
+      "aa_muts": {
+        "CP": []
+      }
+    },
+    "NODE_0000036": {
+      "aa_muts": {
+        "CP": [
+          "D136N"
+        ]
+      }
+    },
+    "NODE_0000037": {
+      "aa_muts": {
+        "CP": [
+          "Q18H"
+        ]
+      }
+    },
+    "NODE_0000038": {
+      "aa_muts": {
+        "CP": [
+          "T23A",
+          "R31K",
+          "A95S"
+        ]
+      }
+    },
+    "NODE_0000039": {
+      "aa_muts": {
+        "CP": []
+      }
+    },
+    "NODE_0000040": {
+      "aa_muts": {
+        "CP": []
+      }
+    },
+    "NODE_0000041": {
+      "aa_muts": {
+        "CP": []
+      }
+    },
+    "NODE_0000042": {
+      "aa_muts": {
+        "CP": []
+      },
+      "aa_sequences": {
+        "CP": "ASKEQTFDAGQFASKQAQPQGPTSSSEGPGRDVNVGTKGTFSIPRIKAPMSKLTLPKLKGKVLVNLEHLVEYEPEQVDISNKRASQEQLGQWVEAVKTSYDVDDEQLKIILNGFMVWCIENGTSPNINGNWYMIEDGEQIEFPLKPIVENAKPTLRQIMAHFSDLAEAYIEKRNAKKAYMPGYGLKRNLNDYSLARYAFDFFEITSKTPVRAREAHMQMKAAALRNTRTRLFGLDGSVGTNDENTERHTSDDVNRDMHSLLGVRNI*"
+      }
+    },
+    "NODE_0000043": {
+      "aa_muts": {
+        "CP": [
+          "P22S"
+        ]
+      }
+    },
+    "NODE_0000044": {
+      "aa_muts": {
+        "CP": [
+          "S14G",
+          "T23A",
+          "S25N",
+          "S26P",
+          "R31K",
+          "V62I",
+          "Q106H",
+          "W131C",
+          "D136N",
+          "V238F"
+        ]
+      }
+    },
+    "NODE_0000045": {
+      "aa_muts": {
+        "CP": [
+          "A13T",
+          "S25G",
+          "E67D"
+        ]
+      }
+    },
+    "NODE_0000046": {
+      "aa_muts": {
+        "CP": [
+          "S2G",
+          "A17P"
+        ]
+      }
+    },
+    "NODE_0000047": {
+      "aa_muts": {
+        "CP": [
+          "T23A",
+          "S26F"
+        ]
+      }
+    },
+    "NODE_0000048": {
+      "aa_muts": {
+        "CP": [
+          "P17S",
+          "R31K",
+          "V35A",
+          "N241D"
+        ]
+      }
+    },
+    "NODE_0000049": {
+      "aa_muts": {
+        "CP": [
+          "R255K"
+        ]
+      }
+    },
+    "NODE_0000050": {
+      "aa_muts": {
+        "CP": [
+          "S17P"
+        ]
+      }
+    },
+    "NODE_0000051": {
+      "aa_muts": {
+        "CP": []
+      }
+    },
+    "NODE_0000052": {
+      "aa_muts": {
+        "CP": [
+          "A13S",
+          "P19S",
+          "P29S",
+          "V77T",
+          "R228K"
+        ]
+      }
+    },
+    "NODE_0000053": {
+      "aa_muts": {
+        "CP": [
+          "D136N"
+        ]
+      }
+    },
+    "NODE_0000054": {
+      "aa_muts": {
+        "CP": [
+          "S25N"
+        ]
+      }
+    },
+    "NODE_0000055": {
+      "aa_muts": {
+        "CP": []
+      }
+    },
+    "NODE_0000056": {
+      "aa_muts": {
+        "CP": []
+      }
+    },
+    "NODE_0000057": {
+      "aa_muts": {
+        "CP": [
+          "P17S"
+        ]
+      }
+    },
+    "NODE_0000058": {
+      "aa_muts": {
+        "CP": [
+          "S24N"
+        ]
+      }
+    },
+    "NODE_0000059": {
+      "aa_muts": {
+        "CP": []
+      }
+    },
+    "NODE_0000060": {
+      "aa_muts": {
+        "CP": [
+          "G21S",
+          "S24N",
+          "I43V",
+          "S99A"
+        ]
+      }
+    },
+    "NODE_0000061": {
+      "aa_muts": {
+        "CP": [
+          "F202Y",
+          "K228R"
+        ]
+      }
+    },
+    "NODE_0000062": {
+      "aa_muts": {
+        "CP": [
+          "Q18H",
+          "G21S",
+          "P22Q",
+          "R31K",
+          "V62I",
+          "E141G",
+          "P146S",
+          "N190T"
+        ]
+      }
+    },
+    "NODE_0000063": {
+      "aa_muts": {
+        "CP": [
+          "S26P",
+          "Y132H",
+          "T240A"
+        ]
+      }
+    },
+    "NODE_0000064": {
+      "aa_muts": {
+        "CP": [
+          "S24N"
+        ]
+      }
+    },
+    "NODE_0000065": {
+      "aa_muts": {
+        "CP": [
+          "I43V",
+          "A223P",
+          "N241S"
+        ]
+      }
+    },
+    "NODE_0000066": {
+      "aa_muts": {
+        "CP": [
+          "Q11H",
+          "G21D",
+          "D103N",
+          "E141A"
+        ]
+      }
+    },
+    "NODE_0000067": {
+      "aa_muts": {
+        "CP": []
+      }
+    },
+    "NODE_0000068": {
+      "aa_muts": {
+        "CP": []
+      }
+    },
+    "NODE_0000069": {
+      "aa_muts": {
+        "CP": [
+          "N24S",
+          "N25S"
+        ]
+      }
+    },
+    "NODE_0000070": {
+      "aa_muts": {
+        "CP": [
+          "S14N"
+        ]
+      }
+    },
+    "NODE_0000071": {
+      "aa_muts": {
+        "CP": [
+          "R31K",
+          "T98A"
+        ]
+      }
+    },
+    "NODE_0000072": {
+      "aa_muts": {
+        "CP": []
+      }
+    },
+    "NODE_0000073": {
+      "aa_muts": {
+        "CP": []
+      }
+    },
+    "NODE_0000075": {
+      "aa_muts": {
+        "CP": []
+      }
+    },
+    "NODE_0000076": {
+      "aa_muts": {
+        "CP": []
+      }
+    },
+    "NODE_0000079": {
+      "aa_muts": {
+        "CP": []
+      }
+    },
+    "NODE_0000081": {
+      "aa_muts": {
+        "CP": []
+      }
+    },
+    "NODE_0000082": {
+      "aa_muts": {
+        "CP": []
+      }
+    },
+    "Nanning_JF357962_Chi_2010_opp": {
+      "aa_muts": {
+        "CP": [
+          "T123S",
+          "W131C",
+          "R255K"
+        ]
+      }
+    },
+    "PNG1_AF548523_PNG_1993_ala": {
+      "aa_muts": {
+        "CP": []
+      }
+    },
+    "PNG2_AF548524_PNG_1993_ala": {
+      "aa_muts": {
+        "CP": []
+      }
+    },
+    "PNG3_AF548525_PNG_1993_ala": {
+      "aa_muts": {
+        "CP": []
+      }
+    },
+    "PNG4_AF548526_PNG_1994_ala": {
+      "aa_muts": {
+        "CP": []
+      }
+    },
+    "PNG_AB022424_PNG_2016_ala": {
+      "aa_muts": {
+        "CP": []
+      }
+    },
+    "SSY-FX1_KJ125474_ChI_2012_Dsp": {
+      "aa_muts": {
+        "CP": [
+          "S2G",
+          "S22T",
+          "V35A",
+          "I266T"
+        ]
+      }
+    },
+    "TG-NH1_KJ125475_Chi_2011_Dsp": {
+      "aa_muts": {
+        "CP": []
+      }
+    },
+    "Togo1_AF548514_Tog_1999_ala": {
+      "aa_muts": {
+        "CP": [
+          "I140V",
+          "V210I"
+        ]
+      }
+    },
+    "YB3-NC1_KJ125476_Chi_2011_ala": {
+      "aa_muts": {
+        "CP": [
+          "A23T"
+        ]
+      }
+    },
+    "YB3-NC2_KJ125477_Chi_2011_ala": {
+      "aa_muts": {
+        "CP": [
+          "S2G",
+          "S25G",
+          "S26P",
+          "G28R",
+          "P29A",
+          "S42N"
+        ]
+      }
+    },
+    "YMMV_CD_Bra_2023_ala": {
+      "aa_muts": {
+        "CP": [
+          "R255K"
+        ]
+      }
+    },
+    "YMMV_DA_Bra_2020_ala": {
+      "aa_muts": {
+        "CP": [
+          "S239G",
+          "N240T",
+          "N241S",
+          "E242D"
+        ]
+      }
+    },
+    "ZY-NH1_KJ125478_Chi_2011_ala": {
+      "aa_muts": {
+        "CP": []
+      }
+    },
+    "ZY-XZ1_KJ125479_Chi_2012_ala": {
+      "aa_muts": {
+        "CP": []
+      }
+    }
+  },
+  "reference": {
+    "CP": "ASKEQTFDAGQFASKQAQPQGPTSSSEGPGRDVNVGTKGTFSIPRIKAPMSKLTLPKLKGKVLVNLEHLVEYEPEQVDISNKRASQEQLGQWVEAVKTSYDVDDEQLKIILNGFMVWCIENGTSPNINGNWYMIEDGEQIEFPLKPIVENAKPTLRQIMAHFSDLAEAYIEKRNAKKAYMPGYGLKRNLNDYSLARYAFDFFEITSKTPVRAREAHMQMKAAALRNTRTRLFGLDGSVGTNDENTERHTSDDVNRDMHSLLGVRNI*"
+  }
+}

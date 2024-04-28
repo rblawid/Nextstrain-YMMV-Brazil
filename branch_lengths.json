@@ -1,0 +1,1108 @@
+{
+  "alignment": "/home/blawid/YMMV/YMMV2/results/aligned.fasta",
+  "clock": {
+    "cov": [
+      [
+        4.732500187388306e-08,
+        -9.492087815338007e-05
+      ],
+      [
+        -9.492087815338007e-05,
+        0.1904066099480625
+      ]
+    ],
+    "intercept": 0.5591598654500766,
+    "rate": -0.00021647939558333426,
+    "rate_std": 0.00021754310348499458,
+    "rtt_Tmrca": 2582.9703743552195
+  },
+  "generated_by": {
+    "program": "augur",
+    "version": "24.3.0"
+  },
+  "input_tree": "/home/blawid/YMMV/YMMV2/results/tree_raw.nwk",
+  "nodes": {
+    "Andong_KX156847_S-Kor_2014_poly": {
+      "branch_length": 0.04024908461127502,
+      "clock_length": 0.04024908461127502,
+      "date": "2014-01-01",
+      "mutation_length": 0.03131038,
+      "numdate": 2014.0013698630137,
+      "raw_date": "2014-01-01"
+    },
+    "Br2_AF548498_Bra_2000_ala": {
+      "branch_length": 0.017807504231249997,
+      "clock_length": 0.017807504231249997,
+      "date": "2000-01-01",
+      "mutation_length": 0.04458843,
+      "numdate": 2000.0013661202186,
+      "raw_date": "2000-01-01"
+    },
+    "CN1_KC407674_Chi_2011_opp": {
+      "branch_length": 0.06532827245,
+      "clock_length": 0.06532827245,
+      "date": "2011-01-01",
+      "mutation_length": 0.04960856,
+      "numdate": 2011.0013698630137,
+      "raw_date": "2011-01-01"
+    },
+    "CN20_KC473517_Chi_2010_poly": {
+      "branch_length": 0.07680875557442234,
+      "clock_length": 0.07680875557442234,
+      "date": "2010-01-01",
+      "mutation_length": 0.04984191,
+      "numdate": 2010.0013698630137,
+      "raw_date": "2010-01-01"
+    },
+    "COL1_AF548491_Col_2016_ala": {
+      "branch_length": 0.003912096037500001,
+      "clock_length": 0.003912096037500001,
+      "date": "1999-01-01",
+      "mutation_length": 0.00505194,
+      "numdate": 1999.0013698630137,
+      "raw_date": "1999-01-01"
+    },
+    "COL2_AF548492_Col_2016_ala": {
+      "branch_length": 0.003912096037500001,
+      "clock_length": 0.003912096037500001,
+      "date": "1999-01-01",
+      "mutation_length": 0.00629361,
+      "numdate": 1999.0013698630137,
+      "raw_date": "1999-01-01"
+    },
+    "CR1_AF548499_C-Ric_1999_tri": {
+      "branch_length": 0.0221355072,
+      "clock_length": 0.0221355072,
+      "date": "1999-01-01",
+      "mutation_length": 0.03458673,
+      "numdate": 1999.0013698630137,
+      "raw_date": "1999-01-01"
+    },
+    "DSMZ-PV-1214_OM471977_Nig_2022_ala": {
+      "branch_length": 0.02916349030272998,
+      "clock_length": 0.02916349030272998,
+      "date": "2022-01-01",
+      "mutation_length": 0.02801017,
+      "numdate": 2022.0013698630137,
+      "raw_date": "2022-01-01"
+    },
+    "DSMZ-PV-1214_OM471978_Nig_2022_ala": {
+      "branch_length": 0.017678895,
+      "clock_length": 0.017678895,
+      "date": "2022-01-01",
+      "mutation_length": 0.01267875,
+      "numdate": 2022.0013698630137,
+      "raw_date": "2022-01-01"
+    },
+    "DSMZ-PV-1214_OM471979_Nig_2022_ala": {
+      "branch_length": 0.017678895,
+      "clock_length": 0.017678895,
+      "date": "2022-01-01",
+      "mutation_length": 0.02357186,
+      "numdate": 2022.0013698630137,
+      "raw_date": "2022-01-01"
+    },
+    "Da-L3_KM265137_Ind_2014_ala": {
+      "branch_length": 0.050964301350000005,
+      "clock_length": 0.050964301350000005,
+      "date": "2014-01-01",
+      "mutation_length": 0.07035624,
+      "numdate": 2014.0013698630137,
+      "raw_date": "2014-01-01"
+    },
+    "DaG131-16_MT345581_Gha_2012_ala": {
+      "branch_length": 0.022294106999999997,
+      "clock_length": 0.022294106999999997,
+      "date": "2012-01-01",
+      "mutation_length": 0.0176796,
+      "numdate": 2012.0013661202186,
+      "raw_date": "2012-01-01"
+    },
+    "DaG137-17_MT345582_Gha_2012_ala": {
+      "branch_length": 0.05086856508345988,
+      "clock_length": 0.05086856508345988,
+      "date": "2012-01-01",
+      "mutation_length": 0.08478341,
+      "numdate": 2012.0013661202186,
+      "raw_date": "2012-01-01"
+    },
+    "DaG38-16_MT345592_Gha_2013_ala": {
+      "branch_length": 0.03282590691458908,
+      "clock_length": 0.03282590691458908,
+      "date": "2013-01-01",
+      "mutation_length": 0.03144048,
+      "numdate": 2013.0013698630137,
+      "raw_date": "2013-01-01"
+    },
+    "DaG4-43_MT345579_Gha_2012_ala": {
+      "branch_length": 0.022294106999999997,
+      "clock_length": 0.022294106999999997,
+      "date": "2012-01-01",
+      "mutation_length": 0.0225193,
+      "numdate": 2012.0013661202186,
+      "raw_date": "2012-01-01"
+    },
+    "DaG89-11_MT345580_Gha_2012_ala": {
+      "branch_length": 0.007864248657238948,
+      "clock_length": 0.007864248657238948,
+      "date": "2012-01-01",
+      "mutation_length": 0.02838587,
+      "numdate": 2012.0013661202186,
+      "raw_date": "2012-01-01"
+    },
+    "DaN143-12_MT345586_Nig_2012_ala": {
+      "branch_length": 0.0024559464603671633,
+      "clock_length": 0.0024559464603671633,
+      "date": "2012-01-01",
+      "mutation_length": 0.00124913,
+      "numdate": 2012.0013661202186,
+      "raw_date": "2012-01-01"
+    },
+    "DaN246-21_MT345587_Nig_2012_ala": {
+      "branch_length": 0.0002046622050305971,
+      "clock_length": 0.0002046622050305971,
+      "date": "2012-01-01",
+      "mutation_length": 2.22e-06,
+      "numdate": 2012.0013661202186,
+      "raw_date": "2012-01-01"
+    },
+    "DaN31-3_MT345584_Nig_2012_ala": {
+      "branch_length": 0.005139644400000001,
+      "clock_length": 0.005139644400000001,
+      "date": "2012-01-01",
+      "mutation_length": 0.00627264,
+      "numdate": 2012.0013661202186,
+      "raw_date": "2012-01-01"
+    },
+    "DaN32-3_MT345585_Nig_2012_ala": {
+      "branch_length": 0.0002046622050305971,
+      "clock_length": 0.0002046622050305971,
+      "date": "2012-01-01",
+      "mutation_length": 2.42e-06,
+      "numdate": 2012.0013661202186,
+      "raw_date": "2012-01-01"
+    },
+    "DaN46-5_MT345594_Nig_2013_ala": {
+      "branch_length": 0.0026279075,
+      "clock_length": 0.0026279075,
+      "date": "2013-01-01",
+      "mutation_length": 0.00251024,
+      "numdate": 2013.0013698630137,
+      "raw_date": "2013-01-01"
+    },
+    "DaN48-5_MT345595_Nig_2013_ala": {
+      "branch_length": 0.0026279075,
+      "clock_length": 0.0026279075,
+      "date": "2013-01-01",
+      "mutation_length": 2.22e-06,
+      "numdate": 2013.0013698630137,
+      "raw_date": "2013-01-01"
+    },
+    "DaN6-I_MT345589_Nig_2012_ala": {
+      "branch_length": 0.009750287057345321,
+      "clock_length": 0.009750287057345321,
+      "date": "2012-01-01",
+      "mutation_length": 0.00892846,
+      "numdate": 2012.0013661202186,
+      "raw_date": "2012-01-01"
+    },
+    "DaN7-19_MT345588_Nig_2012_ala": {
+      "branch_length": 0.05461632909271229,
+      "clock_length": 0.05461632909271229,
+      "date": "2012-01-01",
+      "mutation_length": 0.06360497,
+      "numdate": 2012.0013661202186,
+      "raw_date": "2012-01-01"
+    },
+    "DrG269-31_MT345583_Gha_2012_rot": {
+      "branch_length": 0.007864248657238948,
+      "clock_length": 0.007864248657238948,
+      "date": "2012-01-01",
+      "mutation_length": 0.00371011,
+      "numdate": 2012.0013661202186,
+      "raw_date": "2012-01-01"
+    },
+    "FIJI1_AF548515_Fiji_2000_ala": {
+      "branch_length": 0.02166257856424064,
+      "clock_length": 0.02166257856424064,
+      "date": "2000-01-01",
+      "mutation_length": 0.02708405,
+      "numdate": 2000.0013661202186,
+      "raw_date": "2000-01-01"
+    },
+    "FIJI2_AF548516_Fiji_2000_ala": {
+      "branch_length": 0.003524446875000001,
+      "clock_length": 0.003524446875000001,
+      "date": "2000-01-01",
+      "mutation_length": 0.00375941,
+      "numdate": 2000.0013661202186,
+      "raw_date": "2000-01-01"
+    },
+    "FIJI3_AF548517_Fiji_2000_ala": {
+      "branch_length": 0.003524446875000001,
+      "clock_length": 0.003524446875000001,
+      "date": "2000-01-01",
+      "mutation_length": 2.9e-06,
+      "numdate": 2000.0013661202186,
+      "raw_date": "2000-01-01"
+    },
+    "FIJI4_AF548518_Fiji_2000_ala": {
+      "branch_length": 0.010829339074963435,
+      "clock_length": 0.010829339074963435,
+      "date": "2000-01-01",
+      "mutation_length": 0.01137289,
+      "numdate": 2000.0013661202186,
+      "raw_date": "2000-01-01"
+    },
+    "GH5-NN1_KJ125472_Chi_2011_ala": {
+      "branch_length": 0.008204549641314245,
+      "clock_length": 0.008204549641314245,
+      "date": "2011-01-01",
+      "mutation_length": 0.0163345,
+      "numdate": 2011.0013698630137,
+      "raw_date": "2011-01-01"
+    },
+    "GH6-NC1_KJ125473_Chi_2010_ala": {
+      "branch_length": 0.04412804280466532,
+      "clock_length": 0.04412804280466532,
+      "date": "2010-01-01",
+      "mutation_length": 0.02977494,
+      "numdate": 2010.0013698630137,
+      "raw_date": "2010-01-01"
+    },
+    "Guad1_AF548500_Gua_1998_ala": {
+      "branch_length": 0.051585618364783634,
+      "clock_length": 0.051585618364783634,
+      "date": "1998-01-01",
+      "mutation_length": 0.07536542,
+      "numdate": 1998.0013698630137,
+      "raw_date": "1998-01-01"
+    },
+    "Guad2_AF548501_Gua_1998_ala": {
+      "branch_length": 0.0021490218750000005,
+      "clock_length": 0.0021490218750000005,
+      "date": "1998-01-01",
+      "mutation_length": 0.00250068,
+      "numdate": 1998.0013698630137,
+      "raw_date": "1998-01-01"
+    },
+    "Guad3_AF548502_Gua_1998_ala": {
+      "branch_length": 0.007977258015752381,
+      "clock_length": 0.007977258015752381,
+      "date": "1998-01-01",
+      "mutation_length": 0.02553992,
+      "numdate": 1998.0013698630137,
+      "raw_date": "1998-01-01"
+    },
+    "Guad4_AF548503_Gua_1998_tri": {
+      "branch_length": 0.0005475837500000021,
+      "clock_length": 0.0005475837500000021,
+      "date": "1998-01-01",
+      "mutation_length": 2.36e-06,
+      "numdate": 1998.0013698630137,
+      "raw_date": "1998-01-01"
+    },
+    "Guad5_AF548504_Gua_1998_tri": {
+      "branch_length": 0.0005475837500000021,
+      "clock_length": 0.0005475837500000021,
+      "date": "1998-01-01",
+      "mutation_length": 0.00125162,
+      "numdate": 1998.0013698630137,
+      "raw_date": "1998-01-01"
+    },
+    "Guad6_AF548505_Gua_1998_esc": {
+      "branch_length": 0.08532273876258764,
+      "clock_length": 0.08532273876258764,
+      "date": "1998-01-01",
+      "mutation_length": 0.10921497,
+      "numdate": 1998.0013698630137,
+      "raw_date": "1998-01-01"
+    },
+    "Guy1_AF548506_Guy_1998_tri": {
+      "branch_length": 0.007188964062500001,
+      "clock_length": 0.007188964062500001,
+      "date": "1998-01-01",
+      "mutation_length": 0.00836534,
+      "numdate": 1998.0013698630137,
+      "raw_date": "1998-01-01"
+    },
+    "Guy2_AF548507_Guy_1998_tri": {
+      "branch_length": 0.013677323232105984,
+      "clock_length": 0.013677323232105984,
+      "date": "1998-01-01",
+      "mutation_length": 0.02504395,
+      "numdate": 1998.0013698630137,
+      "raw_date": "1998-01-01"
+    },
+    "Guy3_AF548508_Guy_1998_tri": {
+      "branch_length": 0.013677323232105984,
+      "clock_length": 0.013677323232105984,
+      "date": "1998-01-01",
+      "mutation_length": 0.02059117,
+      "numdate": 1998.0013698630137,
+      "raw_date": "1998-01-01"
+    },
+    "Guy4_AF548509_Guy_1998_tri": {
+      "branch_length": 0.007188964062500001,
+      "clock_length": 0.007188964062500001,
+      "date": "1998-01-01",
+      "mutation_length": 0.01334092,
+      "numdate": 1998.0013698630137,
+      "raw_date": "1998-01-01"
+    },
+    "Guy5_AF548510_Guy_1998_tri": {
+      "branch_length": 0.025720304583563232,
+      "clock_length": 0.025720304583563232,
+      "date": "1998-01-01",
+      "mutation_length": 0.02282489,
+      "numdate": 1998.0013698630137,
+      "raw_date": "1998-01-01"
+    },
+    "Guy6_AF548511_Guy_1998_tri": {
+      "branch_length": 0.019307662187499998,
+      "clock_length": 0.019307662187499998,
+      "date": "1998-01-01",
+      "mutation_length": 0.01844314,
+      "numdate": 1998.0013698630137,
+      "raw_date": "1998-01-01"
+    },
+    "Guy7_AF548512_Guy_1998_tri": {
+      "branch_length": 0.03647623458607264,
+      "clock_length": 0.03647623458607264,
+      "date": "1998-01-01",
+      "mutation_length": 0.03724761,
+      "numdate": 1998.0013698630137,
+      "raw_date": "1998-01-01"
+    },
+    "Guy8_AF548513_Guy_1998_tri": {
+      "branch_length": 0.016009087579882814,
+      "clock_length": 0.016009087579882814,
+      "date": "1998-01-01",
+      "mutation_length": 0.01687124,
+      "numdate": 1998.0013698630137,
+      "raw_date": "1998-01-01"
+    },
+    "HB148_MT501393_Cam_2021_ala": {
+      "branch_length": 0.004359585625000003,
+      "clock_length": 0.004359585625000003,
+      "date": "2021-01-01",
+      "mutation_length": 0.00387359,
+      "numdate": 2021.0013698630137,
+      "raw_date": "2021-01-01"
+    },
+    "HB86_MT501392_Cam_2021_esc": {
+      "branch_length": 0.004359585625000003,
+      "clock_length": 0.004359585625000003,
+      "date": "2021-01-01",
+      "mutation_length": 0.00367123,
+      "numdate": 2021.0013698630137,
+      "raw_date": "2021-01-01"
+    },
+    "I133_KC924403_Bra_2014_ala": {
+      "branch_length": 0.016043135524149522,
+      "clock_length": 0.016043135524149522,
+      "date": "2014-01-01",
+      "mutation_length": 0.01012333,
+      "numdate": 2014.0013698630137,
+      "raw_date": "2014-01-01"
+    },
+    "I55_KC924404_Bra_2014_tri": {
+      "branch_length": 0.04643179878065047,
+      "clock_length": 0.04643179878065047,
+      "date": "2014-01-01",
+      "mutation_length": 0.05912728,
+      "numdate": 2014.0013698630137,
+      "raw_date": "2014-01-01"
+    },
+    "JPN1_AF548519_Jap_1997_ala": {
+      "branch_length": 0,
+      "clock_length": 0,
+      "date": "1997-01-01",
+      "mutation_length": 1e-06,
+      "numdate": 1997.0013698630137,
+      "raw_date": "1997-01-01"
+    },
+    "JPN2_AF548520_Jap_2016_ala": {
+      "branch_length": 0.09756260077519358,
+      "clock_length": 0.09756260077519358,
+      "date": "1998-01-01",
+      "mutation_length": 0.0639095,
+      "numdate": 1998.0013698630137,
+      "raw_date": "1998-01-01"
+    },
+    "JPN3_AF548521_Jap_1998_ala": {
+      "branch_length": 0.010129247290416673,
+      "clock_length": 0.010129247290416673,
+      "date": "1998-01-01",
+      "mutation_length": 0.01296094,
+      "numdate": 1998.0013698630137,
+      "raw_date": "1998-01-01"
+    },
+    "JPN4_AF548522_Jap_1993_ala": {
+      "branch_length": 0.0018282638731666615,
+      "clock_length": 0.0018282638731666615,
+      "date": "1993-01-01",
+      "mutation_length": 0.00249712,
+      "numdate": 1993.0013698630137,
+      "raw_date": "1993-01-01"
+    },
+    "JPN_AB029405_Jap_2016_ala": {
+      "branch_length": 0.004113107705845323,
+      "clock_length": 0.004113107705845323,
+      "date": "2016-01-01",
+      "mutation_length": 1e-06,
+      "numdate": 2016.0013661202186,
+      "raw_date": "2016-01-01"
+    },
+    "Luzhai_JF357963_Chi_2010_opp": {
+      "branch_length": 0.007988070245730911,
+      "clock_length": 0.007988070245730911,
+      "date": "2010-01-01",
+      "mutation_length": 0.00523161,
+      "numdate": 2010.0013698630137,
+      "raw_date": "2010-01-01"
+    },
+    "Mart1_AF548493_Mart_1998_rot": {
+      "branch_length": 0.003154536000000001,
+      "clock_length": 0.003154536000000001,
+      "date": "1998-01-01",
+      "mutation_length": 0.0037554,
+      "numdate": 1998.0013698630137,
+      "raw_date": "1998-01-01"
+    },
+    "Mart2_AF548494_Mart_1998_ala": {
+      "branch_length": 0.04750063102066666,
+      "clock_length": 0.04750063102066666,
+      "date": "1998-01-01",
+      "mutation_length": 0.05882853,
+      "numdate": 1998.0013698630137,
+      "raw_date": "1998-01-01"
+    },
+    "Mart3_AF548495_Mart_1998_ala": {
+      "branch_length": 0.0021490218750000005,
+      "clock_length": 0.0021490218750000005,
+      "date": "1998-01-01",
+      "mutation_length": 2.12e-06,
+      "numdate": 1998.0013698630137,
+      "raw_date": "1998-01-01"
+    },
+    "Mart4_AF548496_Mart_1998_ala": {
+      "branch_length": 0.007977258015752381,
+      "clock_length": 0.007977258015752381,
+      "date": "1998-01-01",
+      "mutation_length": 0.00127098,
+      "numdate": 1998.0013698630137,
+      "raw_date": "1998-01-01"
+    },
+    "NODE_0000000": {
+      "branch_length": 0.023027460371316852,
+      "clock_length": 0.023027460371316852,
+      "date": "1977-06-19",
+      "mutation_length": 0.03265119,
+      "numdate": 1977.4653813146563
+    },
+    "NODE_0000001": {
+      "branch_length": 0.022453139848488735,
+      "clock_length": 0.022453139848488735,
+      "date": "1871-02-03",
+      "mutation_length": 0.03566572,
+      "numdate": 1871.092854223724
+    },
+    "NODE_0000002": {
+      "branch_length": 0.01009853250965017,
+      "clock_length": 0.01009853250965017,
+      "date": "1917-09-28",
+      "mutation_length": 0.01365668,
+      "numdate": 1917.7417857880341
+    },
+    "NODE_0000004": {
+      "branch_length": 0.005859888865399508,
+      "clock_length": 0.005859888865399508,
+      "date": "1966-12-17",
+      "mutation_length": 0.0025074,
+      "numdate": 1966.9611116836622
+    },
+    "NODE_0000005": {
+      "branch_length": 0.008638695862673306,
+      "clock_length": 0.008638695862673306,
+      "date": "1767-05-17",
+      "mutation_length": 0.01444291,
+      "numdate": 1767.373330303281
+    },
+    "NODE_0000006": {
+      "branch_length": 0.020347502627621195,
+      "clock_length": 0.020347502627621195,
+      "date": "1861-05-14",
+      "mutation_length": 0.02694033,
+      "numdate": 1861.3661215007617
+    },
+    "NODE_0000007": {
+      "branch_length": 0.005610731172109107,
+      "clock_length": 0.005610731172109107,
+      "date": "1887-04-14",
+      "mutation_length": 0.00774308,
+      "numdate": 1887.2842055613264
+    },
+    "NODE_0000008": {
+      "branch_length": 0.002738364225417963,
+      "clock_length": 0.002738364225417963,
+      "date": "1899-12-07",
+      "mutation_length": 0.00396438,
+      "numdate": 1899.9337430290336
+    },
+    "NODE_0000009": {
+      "branch_length": 0.007464072027735275,
+      "clock_length": 0.007464072027735275,
+      "date": "1934-05-31",
+      "mutation_length": 0.00911328,
+      "numdate": 1934.4131077169397
+    },
+    "NODE_0000010": {
+      "branch_length": 0.0033691674615419307,
+      "clock_length": 0.0033691674615419307,
+      "date": "1949-12-23",
+      "mutation_length": 0.00118199,
+      "numdate": 1949.976563317244
+    },
+    "NODE_0000011": {
+      "branch_length": 0.0024339863479207525,
+      "clock_length": 0.0024339863479207525,
+      "date": "1961-03-22",
+      "mutation_length": 0.00125939,
+      "numdate": 1961.220064535279
+    },
+    "NODE_0000013": {
+      "branch_length": 0.0042667781041973735,
+      "clock_length": 0.0042667781041973735,
+      "date": "1980-12-06",
+      "mutation_length": 0.00760649,
+      "numdate": 1980.9299223381427
+    },
+    "NODE_0000014": {
+      "branch_length": 0.0041503695457150176,
+      "clock_length": 0.0041503695457150176,
+      "date": "1953-08-02",
+      "mutation_length": 0.00888359,
+      "numdate": 1953.5852304703835
+    },
+    "NODE_0000015": {
+      "branch_length": 0.0016379209941093222,
+      "clock_length": 0.0016379209941093222,
+      "date": "1961-02-25",
+      "mutation_length": 0.00374026,
+      "numdate": 1961.1514054853114
+    },
+    "NODE_0000019": {
+      "branch_length": 0.0018302773622596985,
+      "clock_length": 0.0018302773622596985,
+      "date": "1962-01-15",
+      "mutation_length": 0.00375511,
+      "numdate": 1962.039972120635
+    },
+    "NODE_0000020": {
+      "branch_length": 0.0025999113396222824,
+      "clock_length": 0.0025999113396222824,
+      "date": "2000-11-11",
+      "mutation_length": 0.00375753,
+      "numdate": 2000.8620736823368
+    },
+    "NODE_0000025": {
+      "branch_length": 0.002951363718291713,
+      "clock_length": 0.002951363718291713,
+      "date": "1975-09-03",
+      "mutation_length": 0.00891124,
+      "numdate": 1975.6734346048536
+    },
+    "NODE_0000026": {
+      "branch_length": 0.026843914040499933,
+      "clock_length": 0.026843914040499933,
+      "date": "1727-06-20",
+      "mutation_length": 0.04063566,
+      "numdate": 1727.467934968103
+    },
+    "NODE_0000027": {
+      "branch_length": 0.048435667180716895,
+      "clock_length": 0.048435667180716895,
+      "date": "1951-03-18",
+      "mutation_length": 0.03800903,
+      "numdate": 1951.21055513849
+    },
+    "NODE_0000028": {
+      "branch_length": 0.0034570716187144954,
+      "clock_length": 0.0034570716187144954,
+      "date": "1603-06-20",
+      "mutation_length": 0.0093632,
+      "numdate": 1603.4657685348257
+    },
+    "NODE_0000029": {
+      "branch_length": 0.005231396855354245,
+      "clock_length": 0.005231396855354245,
+      "date": "1587-07-01",
+      "mutation_length": 0.01150589,
+      "numdate": 1587.4962504686885
+    },
+    "NODE_0000030": {
+      "branch_length": 0.026351859822931326,
+      "clock_length": 0.026351859822931326,
+      "date": "1709-03-24",
+      "mutation_length": 0.01869575,
+      "numdate": 1709.225432832315
+    },
+    "NODE_0000031": {
+      "branch_length": 0.05807121335698786,
+      "clock_length": 0.05807121335698786,
+      "date": "1977-06-24",
+      "mutation_length": 0.05895874,
+      "numdate": 1977.4782760209555
+    },
+    "NODE_0000032": {
+      "branch_length": 0.00725705909301215,
+      "clock_length": 0.00725705909301215,
+      "date": "2011-01-01",
+      "mutation_length": 0.00801868,
+      "numdate": 2011.0013698630137
+    },
+    "NODE_0000033": {
+      "branch_length": 0.0034653037894913333,
+      "clock_length": 0.0034653037894913333,
+      "date": "1563-05-01",
+      "mutation_length": 0.00680486,
+      "numdate": 1563.3304547297569
+    },
+    "NODE_0000034": {
+      "branch_length": 0.019886294158279916,
+      "clock_length": 0.019886294158279916,
+      "date": "1655-03-12",
+      "mutation_length": 0.01796899,
+      "numdate": 1655.1927500059123
+    },
+    "NODE_0000035": {
+      "branch_length": 0.009723375796312383,
+      "clock_length": 0.009723375796312383,
+      "date": "1700-02-09",
+      "mutation_length": 0.01226031,
+      "numdate": 1700.1086911748691
+    },
+    "NODE_0000036": {
+      "branch_length": 0.017286834473444625,
+      "clock_length": 0.017286834473444625,
+      "date": "1779-12-18",
+      "mutation_length": 0.02484586,
+      "numdate": 1779.963101461182
+    },
+    "NODE_0000037": {
+      "branch_length": 0.0056705025,
+      "clock_length": 0.0056705025,
+      "date": "1806-02-27",
+      "mutation_length": 0.00930544,
+      "numdate": 1806.1572918353747
+    },
+    "NODE_0000038": {
+      "branch_length": 0.024011462602258456,
+      "clock_length": 0.024011462602258456,
+      "date": "1917-01-28",
+      "mutation_length": 0.04716722,
+      "numdate": 1917.0752964683616
+    },
+    "NODE_0000039": {
+      "branch_length": 0.010798182858488032,
+      "clock_length": 0.010798182858488032,
+      "date": "1966-12-16",
+      "mutation_length": 0.00772251,
+      "numdate": 1966.9561769530414
+    },
+    "NODE_0000040": {
+      "branch_length": 0.001330327098187922,
+      "clock_length": 0.001330327098187922,
+      "date": "1973-02-07",
+      "mutation_length": 0.00197816,
+      "numdate": 1973.1014597158796
+    },
+    "NODE_0000041": {
+      "branch_length": 0.008631826662889804,
+      "clock_length": 0.008631826662889804,
+      "date": "1547-04-28",
+      "mutation_length": 0.01349194,
+      "numdate": 1547.322909161027
+    },
+    "NODE_0000042": {
+      "branch_length": 0.001,
+      "clock_length": 0.001,
+      "date": "1507-06-13",
+      "mutation_length": 0.001,
+      "numdate": 1507.4492452512118
+    },
+    "NODE_0000043": {
+      "branch_length": 0.023414727180325293,
+      "clock_length": 0.023414727180325293,
+      "date": "1615-08-11",
+      "mutation_length": 0.01473307,
+      "numdate": 1615.6107038382102
+    },
+    "NODE_0000044": {
+      "branch_length": 0.08256322086217475,
+      "clock_length": 0.08256322086217475,
+      "date": "1997-01-01",
+      "mutation_length": 0.06227727,
+      "numdate": 1997.0013698630137
+    },
+    "NODE_0000045": {
+      "branch_length": 0.08169730327984141,
+      "clock_length": 0.08169730327984141,
+      "date": "1993-01-01",
+      "mutation_length": 0.08627526,
+      "numdate": 1993.0013698630137
+    },
+    "NODE_0000046": {
+      "branch_length": 0.020871688675495742,
+      "clock_length": 0.020871688675495742,
+      "date": "1603-11-12",
+      "mutation_length": 0.0173675,
+      "numdate": 1603.8634495649942
+    },
+    "NODE_0000047": {
+      "branch_length": 0.04853732448064596,
+      "clock_length": 0.04853732448064596,
+      "date": "1828-01-28",
+      "mutation_length": 0.03875323,
+      "numdate": 1828.0756631562936
+    },
+    "NODE_0000048": {
+      "branch_length": 0.03387475343085834,
+      "clock_length": 0.03387475343085834,
+      "date": "1984-07-22",
+      "mutation_length": 0.03672758,
+      "numdate": 1984.5559292785176
+    },
+    "NODE_0000049": {
+      "branch_length": 0.00479508105550518,
+      "clock_length": 0.00479508105550518,
+      "date": "1939-11-22",
+      "mutation_length": 0.0,
+      "numdate": 1939.8920742373537
+    },
+    "NODE_0000050": {
+      "branch_length": 0.0032249813569093155,
+      "clock_length": 0.0032249813569093155,
+      "date": "1618-05-13",
+      "mutation_length": 0.00749478,
+      "numdate": 1618.3631741203278
+    },
+    "NODE_0000051": {
+      "branch_length": 0.03468321613405753,
+      "clock_length": 0.03468321613405753,
+      "date": "1778-07-30",
+      "mutation_length": 0.04759192,
+      "numdate": 1778.5780344796644
+    },
+    "NODE_0000052": {
+      "branch_length": 0.016787396835718598,
+      "clock_length": 0.016787396835718598,
+      "date": "1695-11-29",
+      "mutation_length": 0.03359729,
+      "numdate": 1695.9104935337186
+    },
+    "NODE_0000053": {
+      "branch_length": 0.06601589079242227,
+      "clock_length": 0.06601589079242227,
+      "date": "2000-11-11",
+      "mutation_length": 0.04342584,
+      "numdate": 2000.862799107804
+    },
+    "NODE_0000054": {
+      "branch_length": 0.002069948389427902,
+      "clock_length": 0.002069948389427902,
+      "date": "1705-06-22",
+      "mutation_length": 0.00517148,
+      "numdate": 1705.4723660798338
+    },
+    "NODE_0000055": {
+      "branch_length": 0.011740883564794044,
+      "clock_length": 0.011740883564794044,
+      "date": "1759-09-16",
+      "mutation_length": 0.01555503,
+      "numdate": 1759.7079367823321
+    },
+    "NODE_0000056": {
+      "branch_length": 0.00333816,
+      "clock_length": 0.00333816,
+      "date": "1720-11-22",
+      "mutation_length": 0.00763008,
+      "numdate": 1720.8925865170022
+    },
+    "NODE_0000057": {
+      "branch_length": 0.012150487574046444,
+      "clock_length": 0.012150487574046444,
+      "date": "1777-01-08",
+      "mutation_length": 0.01242993,
+      "numdate": 1777.0202726707132
+    },
+    "NODE_0000058": {
+      "branch_length": 0.03535446484953125,
+      "clock_length": 0.03535446484953125,
+      "date": "1940-05-02",
+      "mutation_length": 0.03355103,
+      "numdate": 1940.3358840907456
+    },
+    "NODE_0000059": {
+      "branch_length": 0.007668585513258175,
+      "clock_length": 0.007668585513258175,
+      "date": "1756-04-25",
+      "mutation_length": 0.01791478,
+      "numdate": 1756.3166761519262
+    },
+    "NODE_0000060": {
+      "branch_length": 0.033056360144248155,
+      "clock_length": 0.033056360144248155,
+      "date": "1909-01-07",
+      "mutation_length": 0.0219946,
+      "numdate": 1909.0164749257224
+    },
+    "NODE_0000061": {
+      "branch_length": 0.004622021456999967,
+      "clock_length": 0.004622021456999967,
+      "date": "1777-09-01",
+      "mutation_length": 0.01306245,
+      "numdate": 1777.6675370250605
+    },
+    "NODE_0000062": {
+      "branch_length": 0.02577870715490286,
+      "clock_length": 0.02577870715490286,
+      "date": "1896-10-01",
+      "mutation_length": 0.04332105,
+      "numdate": 1896.7491109801174
+    },
+    "NODE_0000063": {
+      "branch_length": 0.021371444054416665,
+      "clock_length": 0.021371444054416665,
+      "date": "1995-06-22",
+      "mutation_length": 0.02533819,
+      "numdate": 1995.4718739332766
+    },
+    "NODE_0000064": {
+      "branch_length": 0.004729606508002404,
+      "clock_length": 0.004729606508002404,
+      "date": "1799-07-08",
+      "mutation_length": 0.01058235,
+      "numdate": 1799.5153738376948
+    },
+    "NODE_0000065": {
+      "branch_length": 0.0064918938652444875,
+      "clock_length": 0.0064918938652444875,
+      "date": "1829-07-03",
+      "mutation_length": 0.01359926,
+      "numdate": 1829.5038808166207
+    },
+    "NODE_0000066": {
+      "branch_length": 0.010755930002509406,
+      "clock_length": 0.010755930002509406,
+      "date": "1879-03-11",
+      "mutation_length": 0.02309484,
+      "numdate": 1879.1895794186794
+    },
+    "NODE_0000067": {
+      "branch_length": 0.003943390997430421,
+      "clock_length": 0.003943390997430421,
+      "date": "1897-05-29",
+      "mutation_length": 0.00941158,
+      "numdate": 1897.4055901702081
+    },
+    "NODE_0000068": {
+      "branch_length": 0.00576782600625,
+      "clock_length": 0.00576782600625,
+      "date": "1924-01-19",
+      "mutation_length": 0.01215879,
+      "numdate": 1924.049354537287
+    },
+    "NODE_0000069": {
+      "branch_length": 0.0023317643477768282,
+      "clock_length": 0.0023317643477768282,
+      "date": "1934-10-27",
+      "mutation_length": 0.00497914,
+      "numdate": 1934.820653771071
+    },
+    "NODE_0000070": {
+      "branch_length": 0.002469251398632813,
+      "clock_length": 0.002469251398632813,
+      "date": "1908-10-24",
+      "mutation_length": 0.00334638,
+      "numdate": 1908.8119939620287
+    },
+    "NODE_0000071": {
+      "branch_length": 0.012118698124999999,
+      "clock_length": 0.012118698124999999,
+      "date": "1964-10-17",
+      "mutation_length": 0.02092494,
+      "numdate": 1964.792832657298
+    },
+    "NODE_0000072": {
+      "branch_length": 0.004870905852042683,
+      "clock_length": 0.004870905852042683,
+      "date": "1983-09-21",
+      "mutation_length": 0.0,
+      "numdate": 1983.7206163264432
+    },
+    "NODE_0000073": {
+      "branch_length": 0.00567596797553066,
+      "clock_length": 0.00567596797553066,
+      "date": "1988-04-04",
+      "mutation_length": 0.0,
+      "numdate": 1988.2594095882794
+    },
+    "NODE_0000075": {
+      "branch_length": 0.006460643009861702,
+      "clock_length": 0.006460643009861702,
+      "date": "1983-06-06",
+      "mutation_length": 0.0,
+      "numdate": 1983.4293779581967
+    },
+    "NODE_0000076": {
+      "branch_length": 0.0010055141250000007,
+      "clock_length": 0.0010055141250000007,
+      "date": "1988-01-28",
+      "mutation_length": 0.0,
+      "numdate": 1988.074227054761
+    },
+    "NODE_0000079": {
+      "branch_length": 0.00012830576619907684,
+      "clock_length": 0.00012830576619907684,
+      "date": "1988-11-07",
+      "mutation_length": 0.0,
+      "numdate": 1988.8521023286362
+    },
+    "NODE_0000081": {
+      "branch_length": 0.0025553921734337605,
+      "clock_length": 0.0025553921734337605,
+      "date": "2000-08-28",
+      "mutation_length": 0.0,
+      "numdate": 2000.6564228578388
+    },
+    "NODE_0000082": {
+      "branch_length": 0.0022512842553365662,
+      "clock_length": 0.0022512842553365662,
+      "date": "2011-01-21",
+      "mutation_length": 0.0,
+      "numdate": 2011.055954181687
+    },
+    "Nanning_JF357962_Chi_2010_opp": {
+      "branch_length": 0.020116580202406864,
+      "clock_length": 0.020116580202406864,
+      "date": "2010-01-01",
+      "mutation_length": 0.04735063,
+      "numdate": 2010.0013698630137,
+      "raw_date": "2010-01-01"
+    },
+    "PNG1_AF548523_PNG_1993_ala": {
+      "branch_length": 8.673617379884035e-19,
+      "clock_length": 8.673617379884035e-19,
+      "date": "1993-01-01",
+      "mutation_length": 1e-06,
+      "numdate": 1993.0013698630137,
+      "raw_date": "1993-01-01"
+    },
+    "PNG2_AF548524_PNG_1993_ala": {
+      "branch_length": 0.0090468503125,
+      "clock_length": 0.0090468503125,
+      "date": "1993-01-01",
+      "mutation_length": 0.00636262,
+      "numdate": 1993.0013698630137,
+      "raw_date": "1993-01-01"
+    },
+    "PNG3_AF548525_PNG_1993_ala": {
+      "branch_length": 0.0018282638731666615,
+      "clock_length": 0.0018282638731666615,
+      "date": "1993-01-01",
+      "mutation_length": 2.22e-06,
+      "numdate": 1993.0013698630137,
+      "raw_date": "1993-01-01"
+    },
+    "PNG4_AF548526_PNG_1994_ala": {
+      "branch_length": 0.002044743268749996,
+      "clock_length": 0.002044743268749996,
+      "date": "1994-01-01",
+      "mutation_length": 0.00375613,
+      "numdate": 1994.0013698630137,
+      "raw_date": "1994-01-01"
+    },
+    "PNG_AB022424_PNG_2016_ala": {
+      "branch_length": 0.004979025288178665,
+      "clock_length": 0.004979025288178665,
+      "date": "2016-01-01",
+      "mutation_length": 1e-06,
+      "numdate": 2016.0013661202186,
+      "raw_date": "2016-01-01"
+    },
+    "SSY-FX1_KJ125474_ChI_2012_Dsp": {
+      "branch_length": 0.05023150328559396,
+      "clock_length": 0.05023150328559396,
+      "date": "2012-01-01",
+      "mutation_length": 0.04424531,
+      "numdate": 2012.0013661202186,
+      "raw_date": "2012-01-01"
+    },
+    "TG-NH1_KJ125475_Chi_2011_Dsp": {
+      "branch_length": 0,
+      "clock_length": 0,
+      "date": "2011-01-01",
+      "mutation_length": 1e-06,
+      "numdate": 2011.0013698630137,
+      "raw_date": "2011-01-01"
+    },
+    "Togo1_AF548514_Tog_1999_ala": {
+      "branch_length": 0.006936055725,
+      "clock_length": 0.006936055725,
+      "date": "1999-01-01",
+      "mutation_length": 0.00507207,
+      "numdate": 1999.0013698630137,
+      "raw_date": "1999-01-01"
+    },
+    "YB3-NC1_KJ125476_Chi_2011_ala": {
+      "branch_length": 0.009534876739502167,
+      "clock_length": 0.009534876739502167,
+      "date": "2011-01-01",
+      "mutation_length": 0.00443854,
+      "numdate": 2011.0013698630137,
+      "raw_date": "2011-01-01"
+    },
+    "YB3-NC2_KJ125477_Chi_2011_ala": {
+      "branch_length": 0.06730185917369327,
+      "clock_length": 0.06730185917369327,
+      "date": "2011-01-01",
+      "mutation_length": 0.07050625,
+      "numdate": 2011.0013698630137,
+      "raw_date": "2011-01-01"
+    },
+    "YMMV_CD_Bra_2023_ala": {
+      "branch_length": 0.009857603278238028,
+      "clock_length": 0.009857603278238028,
+      "date": "2023-01-01",
+      "mutation_length": 0.00355656,
+      "numdate": 2023.0013698630137,
+      "raw_date": "2023-01-01"
+    },
+    "YMMV_DA_Bra_2020_ala": {
+      "branch_length": 0.00920816428125,
+      "clock_length": 0.00920816428125,
+      "date": "2020-01-01",
+      "mutation_length": 0.01941115,
+      "numdate": 2020.0013661202186,
+      "raw_date": "2020-01-01"
+    },
+    "ZY-NH1_KJ125478_Chi_2011_ala": {
+      "branch_length": 0,
+      "clock_length": 0,
+      "date": "2011-01-01",
+      "mutation_length": 1e-06,
+      "numdate": 2011.0013698630137,
+      "raw_date": "2011-01-01"
+    },
+    "ZY-XZ1_KJ125479_Chi_2012_ala": {
+      "branch_length": 0.007473537678357459,
+      "clock_length": 0.007473537678357459,
+      "date": "2012-01-01",
+      "mutation_length": 0.00725508,
+      "numdate": 2012.0013661202186,
+      "raw_date": "2012-01-01"
+    }
+  }
+}

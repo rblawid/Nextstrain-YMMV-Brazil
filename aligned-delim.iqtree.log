@@ -1,0 +1,161 @@
+IQ-TREE multicore version 2.3.0 COVID-edition for Linux 64-bit built Mar 14 2024
+Developed by Bui Quang Minh, James Barbetti, Nguyen Lam Tung,
+Olga Chernomor, Heiko Schmidt, Dominik Schrempf, Michael Woodhams, Ly Trong Nhan.
+
+Host:    rblawid (AVX2, FMA3, 47 GB RAM)
+Command: iqtree2 -ntmax 1 -s /home/blawid/YMMV/YMMV2/results/aligned-delim.fasta -m GTR -ninit 2 -n 2 -me 0.05 -nt AUTO -redo
+Seed:    436447 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Fri Apr 26 16:57:22 2024
+Kernel:  AVX+FMA - auto-detect threads (20 CPU cores detected)
+
+Reading alignment file /home/blawid/YMMV/YMMV2/results/aligned-delim.fasta ... Fasta format detected
+Reading fasta file: done in 0.000588059 secs using 99.99% CPU
+Alignment most likely contains DNA/RNA sequences
+Alignment has 74 sequences with 801 columns, 374 distinct patterns
+319 parsimony-informative, 56 singleton sites, 426 constant sites
+                                    Gap/Ambiguity  Composition  p-value
+Analyzing sequences: done in 5.5598e-05 secs using 97.13% CPU
+   1  YMMV_CD_Bra_2023_ala                  0.00%    passed     99.37%
+   2  YMMV_DA_Bra_2020_ala                  0.00%    passed     98.07%
+   3  DaN6-I_MT345589_Nig_2012_ala          0.00%    passed     97.57%
+   4  Togo1_AF548514_Tog_1999_ala           0.00%    passed     97.26%
+   5  I133_KC924403_Bra_2014_ala            0.00%    passed     95.11%
+   6  Br2_AF548498_Bra_2000_ala             0.00%    passed     98.43%
+   7  DSMZ-PV-1214_OM471977_Nig_2022_ala    0.00%    passed     89.11%
+   8  DaN48-5_MT345595_Nig_2013_ala         0.00%    passed     99.46%
+   9  DaN246-21_MT345587_Nig_2012_ala       0.00%    passed     98.28%
+  10  DaN32-3_MT345585_Nig_2012_ala         0.00%    passed     98.28%
+  11  DaN143-12_MT345586_Nig_2012_ala       0.00%    passed     97.18%
+  12  Guad2_AF548501_Gua_1998_ala           0.00%    passed     97.18%
+  13  Mart3_AF548495_Mart_1998_ala          0.00%    passed     97.18%
+  14  Mart1_AF548493_Mart_1998_rot          0.00%    passed     97.72%
+  15  DaN46-5_MT345594_Nig_2013_ala         0.00%    passed     98.85%
+  16  DaN31-3_MT345584_Nig_2012_ala         0.00%    passed     97.18%
+  17  Mart4_AF548496_Mart_1998_ala          0.00%    passed     92.30%
+  18  FIJI3_AF548517_Fiji_2000_ala          0.00%    passed     95.80%
+  19  FIJI2_AF548516_Fiji_2000_ala          0.00%    passed     97.05%
+  20  FIJI4_AF548518_Fiji_2000_ala          0.00%    passed     89.11%
+  21  COL2_AF548492_Col_2016_ala            0.00%    passed     97.28%
+  22  COL1_AF548491_Col_2016_ala            0.00%    passed     95.08%
+  23  DrG269-31_MT345583_Gha_2012_rot       0.00%    passed     94.27%
+  24  Guad3_AF548502_Gua_1998_ala           0.00%    passed     95.92%
+  25  DaG89-11_MT345580_Gha_2012_ala        0.00%    passed     99.96%
+  26  FIJI1_AF548515_Fiji_2000_ala          0.00%    passed     94.04%
+  27  DaG38-16_MT345592_Gha_2013_ala        0.00%    passed     89.37%
+  28  PNG2_AF548524_PNG_1993_ala            0.00%    passed     95.42%
+  29  JPN3_AF548521_Jap_1998_ala            0.00%    passed     94.98%
+  30  Andong_KX156847_S-Kor_2014_poly       0.00%    passed     99.98%
+  31  PNG4_AF548526_PNG_1994_ala            0.00%    passed     97.92%
+  32  PNG3_AF548525_PNG_1993_ala            0.00%    passed     99.35%
+  33  JPN4_AF548522_Jap_1993_ala            0.00%    passed     97.54%
+  34  ZY-XZ1_KJ125479_Chi_2012_ala          0.00%    passed     99.87%
+  35  ZY-NH1_KJ125478_Chi_2011_ala          0.00%    passed     98.92%
+  36  TG-NH1_KJ125475_Chi_2011_Dsp          0.00%    passed     98.92%
+  37  CN1_KC407674_Chi_2011_opp             0.00%    passed     50.79%
+  38  JPN2_AF548520_Jap_2016_ala            0.00%    passed     98.72%
+  39  YB3-NC1_KJ125476_Chi_2011_ala         0.00%    passed     93.74%
+  40  Luzhai_JF357963_Chi_2010_opp          0.00%    passed     88.93%
+  41  GH5-NN1_KJ125472_Chi_2011_ala         0.00%    passed     86.17%
+  42  Nanning_JF357962_Chi_2010_opp         0.00%    passed     97.09%
+  43  GH6-NC1_KJ125473_Chi_2010_ala         0.00%    passed     85.48%
+  44  SSY-FX1_KJ125474_ChI_2012_Dsp         0.00%    passed     87.69%
+  45  CN20_KC473517_Chi_2010_poly           0.00%    passed     97.49%
+  46  YB3-NC2_KJ125477_Chi_2011_ala         0.00%    passed     85.32%
+  47  JPN1_AF548519_Jap_1997_ala            0.00%    passed     90.21%
+  48  JPN_AB029405_Jap_2016_ala             0.00%    passed     90.21%
+  49  DSMZ-PV-1214_OM471979_Nig_2022_ala    0.00%    passed     85.44%
+  50  DSMZ-PV-1214_OM471978_Nig_2022_ala    0.00%    passed     62.28%
+  51  HB148_MT501393_Cam_2021_ala           0.00%    passed     93.02%
+  52  HB86_MT501392_Cam_2021_esc            0.00%    passed     93.02%
+  53  DaG4-43_MT345579_Gha_2012_ala         0.00%    passed     88.57%
+  54  DaG131-16_MT345581_Gha_2012_ala       0.00%    passed     96.15%
+  55  Guy8_AF548513_Guy_1998_tri            0.00%    passed     65.46%
+  56  Guy2_AF548507_Guy_1998_tri            0.00%    passed     74.93%
+  57  Guy3_AF548508_Guy_1998_tri            0.00%    passed     63.74%
+  58  Guy6_AF548511_Guy_1998_tri            0.00%    passed     71.37%
+  59  Guy4_AF548509_Guy_1998_tri            0.37%    passed     75.15%
+  60  Guy1_AF548506_Guy_1998_tri            0.00%    passed     63.49%
+  61  Guy5_AF548510_Guy_1998_tri            0.00%    passed     95.22%
+  62  Guy7_AF548512_Guy_1998_tri            0.00%    passed     94.97%
+  63  Guad5_AF548504_Gua_1998_tri           0.00%    passed     78.89%
+  64  Guad4_AF548503_Gua_1998_tri           0.00%    passed     78.29%
+  65  CR1_AF548499_C-Ric_1999_tri           0.00%    passed     79.69%
+  66  I55_KC924404_Bra_2014_tri             0.00%    passed     81.44%
+  67  DaN7-19_MT345588_Nig_2012_ala         0.00%    passed     94.29%
+  68  Guad1_AF548500_Gua_1998_ala           0.00%    passed     94.10%
+  69  DaG137-17_MT345582_Gha_2012_ala       0.00%    passed     39.32%
+  70  Da-L3_KM265137_Ind_2014_ala           0.00%    passed     97.73%
+  71  Mart2_AF548494_Mart_1998_ala          0.00%    passed     88.37%
+  72  PNG1_AF548523_PNG_1993_ala            0.00%    passed     90.39%
+  73  PNG_AB022424_PNG_2016_ala             0.00%    passed     90.39%
+  74  Guad6_AF548505_Gua_1998_esc           0.00%    passed     99.37%
+****  TOTAL                                 0.01%  0 sequences failed composition chi2 test (p-value<5%; df=3)
+NOTE: DaN32-3_MT345585_Nig_2012_ala is identical to DaN246-21_MT345587_Nig_2012_ala but kept for subsequent analysis
+NOTE: TG-NH1_KJ125475_Chi_2011_Dsp is identical to ZY-NH1_KJ125478_Chi_2011_ala but kept for subsequent analysis
+NOTE: JPN_AB029405_Jap_2016_ala is identical to JPN1_AF548519_Jap_1997_ala but kept for subsequent analysis
+NOTE: PNG_AB022424_PNG_2016_ala is identical to PNG1_AF548523_PNG_1993_ala but kept for subsequent analysis
+
+Create initial parsimony tree by phylogenetic likelihood library (PLL)... 0.003 seconds
+
+NOTE: 0 MB RAM (0 GB) is required!
+Measuring multi-threading efficiency up to 1 CPU cores
+Increase to 10 rounds for branch lengths
+100 trees examined
+Threads: 1 / Time: 1.007 sec / Speedup: 1.000 / Efficiency: 100% / LogL: -22358
+BEST NUMBER OF THREADS: 1
+
+Estimate model parameters (epsilon = 0.500)
+1. Initial log-likelihood: -12353.628
+2. Current log-likelihood: -11062.601
+3. Current log-likelihood: -10894.834
+Optimal log-likelihood: -10894.574
+Rate parameters:  A-C: 0.99248  A-G: 10.64331  A-T: 0.88010  C-G: 0.64216  C-T: 20.69479  G-T: 1.00000
+Base frequencies:  A: 0.336  C: 0.196  G: 0.238  T: 0.230
+Parameters optimization took 3 rounds (0.035 sec)
+Wrote distance file to... 
+Computing ML distances based on estimated model parameters...
+Calculating distance matrix: done in 0.00372568 secs using 97.7% CPU
+Computing ML distances took 0.003779 sec (of wall-clock time) 0.003696 sec (of CPU time)
+Setting up auxiliary I and S matrices: done in 0.000104573 secs using 97.54% CPU
+Computing RapidNJ tree took 0.000417 sec (of wall-clock time) 0.000425 sec (of CPU time)
+Log-likelihood of RapidNJ tree: -10940.494
+--------------------------------------------------------------------
+|             INITIALIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+
+Do NNI search on 2 best initial trees
+Estimate model parameters (epsilon = 0.500)
+BETTER TREE FOUND at iteration 1: -10871.897
+Estimate model parameters (epsilon = 0.500)
+BETTER TREE FOUND at iteration 2: -10869.344
+Finish initializing candidate tree set (4)
+Current best tree score: -10869.344 / CPU time: 0.064
+Number of iterations: 2
+TREE SEARCH COMPLETED AFTER 2 ITERATIONS / Time: 0h:0m:1s
+
+--------------------------------------------------------------------
+|                    FINALIZING TREE SEARCH                        |
+--------------------------------------------------------------------
+Performs final model parameters optimization
+Estimate model parameters (epsilon = 0.050)
+1. Initial log-likelihood: -10869.344
+Optimal log-likelihood: -10869.344
+Rate parameters:  A-C: 1.00037  A-G: 10.78584  A-T: 0.82775  C-G: 0.66173  C-T: 21.01441  G-T: 1.00000
+Base frequencies:  A: 0.336  C: 0.196  G: 0.238  T: 0.230
+Parameters optimization took 1 rounds (0.004 sec)
+BEST SCORE FOUND : -10869.344
+Total tree length: 2.724
+
+Total number of iterations: 2
+CPU time used for tree search: 0.075 sec (0h:0m:0s)
+Wall-clock time used for tree search: 0.064 sec (0h:0m:0s)
+Total CPU time used: 1.504 sec (0h:0m:1s)
+Total wall-clock time used: 1.138 sec (0h:0m:1s)
+
+Analysis results written to: 
+  IQ-TREE report:                /home/blawid/YMMV/YMMV2/results/aligned-delim.fasta.iqtree
+  Maximum-likelihood tree:       /home/blawid/YMMV/YMMV2/results/aligned-delim.fasta.treefile
+  Likelihood distances:          /home/blawid/YMMV/YMMV2/results/aligned-delim.fasta.mldist
+  Screen log file:               /home/blawid/YMMV/YMMV2/results/aligned-delim.fasta.log
+
+Date and Time: Fri Apr 26 16:57:23 2024
